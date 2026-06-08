@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,50:a6c1ee,100:fbc2eb&height=220&text=Asritha11111&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Open%20Source%20Contributor%20%7C%20Web%20Developer%20%7C%20Tech%20Enthusiast&descSize=16&descColor=ffffff&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,50:a6c1ee,100:fbc2eb&height=220&text=Asritha&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Open%20Source%20Contributor%20%7C%20Web%20Developer%20%7C%20Tech%20Enthusiast&descSize=16&descColor=ffffff&descAlignY=60&animation=twinkling" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -23,7 +23,6 @@
   "currently_working_on": "Full‑stack web apps",
   "learning": "Next.js, TypeScript, FastAPI",
   "ask_me_about": "React, Node.js, Python, MongoDB, Java",
-  "fun_fact": "I debug with snacks 🍕"
 }
 ```
 ---
@@ -33,7 +32,7 @@
 <table align="center">
 <tr>
 <td>🎵 <b>Music while coding</b> – Lo‑fi, hip hop or classical</td>
-<td>☕ <b>Coffee order</b> – Cold Coffee, no sugar</td>
+<td>☕ <b>Desk essential</b> – A huge mug of cold coffee & noise‑cancelling headphones</td>
 </tr>
 <tr>
 <td>📚 <b>Reading</b> – "Clean Code" by Uncle Bob</td>
@@ -63,6 +62,14 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+---
+
+## 🔍 Featured Project
+
+**[DeepFake Detection System](https://github.com/Asritha11111/DEEPFAKE-DETECTION-SYSTEM-final-)**  
+Detects AI‑generated fake videos/images using deep learning. Built with Python, TensorFlow, and OpenCV.  
+`#AI` `#DeepLearning` `#ComputerVision`
 
 ---
 
