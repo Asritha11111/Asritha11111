@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asritha</h1>
-<h3 align="center">Open Source Contributor | Web Developer | Tech Enthusiast</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,50:a6c1ee,100:fbc2eb&height=220&text=Asritha11111&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Open%20Source%20Contributor%20%7C%20Web%20Developer%20%7C%20Tech%20Enthusiast&descSize=16&descColor=ffffff&descAlignY=60&animation=twinkling" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
