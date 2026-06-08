@@ -32,16 +32,9 @@ jobs:
             layout: compact
             theme: dark
       
-      - name: Generate GitHub Trophy Card
-        uses: readme-tools/github-profile-trophy-action@v1
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          trophy_settings: |
-            username: Asritha11111
-            theme: darkhub
-            row: 2
-            column: 4
-            no_frame: true
+      - name: Generate GitHub Trophy Card (using alternative)
+        run: |
+          curl -o github-profile-trophy.svg "https://github-profile-trophy.vercel.app/?username=Asritha11111&theme=darkhub&row=2&column=4&no-frame=true"
       
       - name: Commit and Push Changes
         run: |
