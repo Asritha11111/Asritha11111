@@ -52,14 +52,24 @@
 
 ---
 
-### 📊 GitHub Stats
-<img src="./github-stats-card.svg" alt="GitHub Stats" />
+## 📊 GitHub Stats
 
-### 📈 Top Languages
-<img src="./github-top-langs-card.svg" alt="Top Languages" />
+<div align="center">
+  <img src="./github-stats-card.svg" alt="GitHub Stats" />
+</div>
 
-### 🏆 GitHub Trophies
-<img src="./github-profile-trophy.svg" alt="GitHub Trophies" />
+## 📈 Top Languages
+
+<div align="center">
+  <img src="./github-top-langs-card.svg" alt="Top Languages" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="./github-profile-trophy.svg" alt="GitHub Trophies" />
+</div>
+
 ---
 
 ## 🐍 Contribution Snake
