@@ -2,10 +2,10 @@
 <h3 align="center">Open Source Contributor | Web Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=440&lines=Full‑Stack+Developer;Open+Source+Enthusiast;Always+learning+new+tech;Debugging+with+snacks+%F0%9F%8D%95" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=7576F7&background=FFF8F200&width=435&lines=Full%E2%80%91Stack+Developer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Always+learning+new+tech" alt="Typing SVG" />
+  </a>
 </p>
-
-
 
 <div align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
