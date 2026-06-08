@@ -1,0 +1,52 @@
+name: Generate GitHub Stats Images
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Generate GitHub Stats Card
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          stats_card_settings: |
+            username: Asritha11111
+            include_all_commits: true
+            count_private: true
+            theme: dark
+      
+      - name: Generate Top Languages Card
+        uses: readme-tools/github-readme-stats-action@v2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          top_langs_card_settings: |
+            username: Asritha11111
+            layout: compact
+            theme: dark
+      
+      - name: Generate GitHub Trophy Card
+        uses: readme-tools/github-profile-trophy-action@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          trophy_settings: |
+            username: Asritha11111
+            theme: darkhub
+            row: 2
+            column: 4
+            no_frame: true
+      
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --cached --quiet || git commit -m "chore: update GitHub stats images"
+          git push
