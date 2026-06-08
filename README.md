@@ -52,21 +52,14 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
+<img src="./github-stats-card.svg" alt="GitHub Stats" />
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asritha11111&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asritha11111&layout=compact&langs_count=7&theme=dark" />
-</div>
+### 📈 Top Languages
+<img src="./github-top-langs-card.svg" alt="Top Languages" />
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Asritha11111&theme=darkhub&no-frame=true&row=2&column=4" />
-</div>
-
+### 🏆 GitHub Trophies
+<img src="./github-profile-trophy.svg" alt="GitHub Trophies" />
 ---
 
 ## 🐍 Contribution Snake
