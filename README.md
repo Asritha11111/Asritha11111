@@ -16,6 +16,7 @@
 
 
 <p align="center">✦ • ───────────────────────────────── • ✦</p>
+
 ## 📌 About Me
 
 ```json
@@ -36,7 +37,7 @@
 </tr>
 <tr>
 <td>📚 <b>Reading</b> – "Clean Code" by Uncle Bob</td>
-<td>🌱 <b>Plant parent</b> – 3 succulents (still alive!)</td>
+<td>🌱 <b>Plant parent</b> – 2 succulents (still alive!)</td>
 </tr>
 </table>
 
