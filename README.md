@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,50:a6c1ee,100:fbc2eb&height=220&text=Asritha&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Open%20Source%20Contributor%20%7C%20Web%20Developer%20%7C%20Tech%20Enthusiast&descSize=16&descColor=ffffff&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,50:a6c1ee,100:fbc2eb&height=220&text=Asritha&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Open%20Source%20Contributor&descSize=16&descColor=ffffff&descAlignY=58&animation=twinkling" width="100%" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -21,9 +21,27 @@
 
 ```json
 {
-  "currently_working_on": "Full‑stack web apps",
-  "learning": "Next.js, TypeScript, FastAPI",
-  "ask_me_about": "React, Node.js, Python, MongoDB, Java",
+  "name": "Kotagiri Asritha",
+  "role": "Computer Science Undergraduate",
+  "currently_working_on": "Building Full-Stack Web Applications and practicing Data Structures & Algorithms",
+  "currently_learning": [
+    "Next.js",
+    "Machine Learning",
+    "Open Source Contributions"
+  ],
+  "interests": [
+    "Full-Stack Development",
+    "Artificial Intelligence",
+    "Problem Solving"
+  ],
+  "ask_me_about": [
+    "React",
+    "Node.js",
+    "Python",
+    "MongoDB",
+    "TensorFlow",
+    "Java"
+  ]
 }
 ```
 ---
@@ -43,19 +61,84 @@
 
 ---
 
-🛠️ Tech Stack
-<p align="left"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </p>
-📊 GitHub Stats
-<div align="center"> <img src="https://streak-stats.demolab.com?user=Asritha11111&theme=dark" alt="GitHub Streak" /> </div><div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asritha11111&layout=compact&theme=dark" /> </div>
+## 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Currently Learning
+![DSA](https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=datacamp&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
-## 🌐 Connect with me
+## 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://twitter.com/Asritha111" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Asritha11111&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&border_radius=12" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asritha11111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=12" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Asritha11111&theme=react-dark&bg_color=0d1117&color=00d4ff&line=a0c4ff&point=ff6b6b&area=true&hide_border=true&border_radius=12" alt="Activity Graph" />
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+  💬 Whether it's discussing technology, collaborating on projects, exploring open source, or just connecting with fellow developers, feel free to reach out. I'm always happy to connect!
+</div>
+
+<br/>
+
+<p align="center">
   <a href="https://linkedin.com/in/kotagiri-asritha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -63,14 +146,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-
-## 🔍 Featured Project
-
-**[DeepFake Detection System](https://github.com/Asritha11111/DEEPFAKE-DETECTION-SYSTEM-final-)**  
-Detects AI‑generated fake videos/images using deep learning. Built with Python, TensorFlow, and OpenCV.  
-`#AI` `#DeepLearning` `#ComputerVision`
 
 ---
 
