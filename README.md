@@ -113,19 +113,19 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Asritha11111&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&border_radius=12" alt="GitHub Streak" />
-</div>
 
-<br/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Asritha11111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Asritha11111&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asritha11111&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=12" alt="Top Languages" />
-</div>
+<br/><br/>
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asritha11111&theme=tokyonight&hide_border=true" width="600" />
 
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Asritha11111&theme=react-dark&bg_color=0d1117&color=00d4ff&line=a0c4ff&point=ff6b6b&area=true&hide_border=true&border_radius=12" alt="Activity Graph" />
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Asritha11111&theme=react-dark&bg_color=0d1117&color=00d4ff&line=a0c4ff&point=ff6b6b&area=true&hide_border=true" />
+
 </div>
 
 ---
