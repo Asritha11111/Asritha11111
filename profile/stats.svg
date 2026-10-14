@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">KOTAGIRI ASRITHA&#39;s GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 1, Total Commits  : 103, Total PRs: 44, Total Issues: 4, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 1, Total Commits  : 111, Total PRs: 45, Total Issues: 4, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 205.98797687825882;
+        stroke-dashoffset: 205.30227831821784;
       }
     }
   
@@ -176,7 +176,7 @@
         x="204.01"
         y="12.5"
         data-testid="commits"
-      >103</text>
+      >111</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -187,7 +187,7 @@
         x="204.01"
         y="12.5"
         data-testid="prs"
-      >44</text>
+      >45</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
